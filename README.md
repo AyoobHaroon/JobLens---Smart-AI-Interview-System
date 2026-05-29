@@ -1,7 +1,7 @@
 # 🔍 JobLens — AI-Powered Interview Platform
 
-> **CS-C Web Programming Semester Project**  
-> Ayoob Haroon (20I-0777) & Saud Ahmed Malik (21I-0896)
+> **The App is Live on https://joblens-liart.vercel.app/**  
+> Ayoob Haroon
 
 
 
@@ -11,8 +11,6 @@
 
 ---
 
-https://github.com/i200777/joblens
-https://joblens-liart.vercel.app/
 ---
 JobLens is an AI-powered interview platform that evaluates candidates through audio-based Q&A sessions and live coding challenges. It generates structured, rubric-driven evaluation reports for HR teams — without relying on biased video/emotion analysis.
 
@@ -245,9 +243,7 @@ Open your browser and go to: **http://localhost:3001**
 
 ## 📞 Contact
 
-- **Ayoob Haroon** — 20I-0777 — FAST-NUCES CS-C
-- **Saud Ahmed Malik** — 21I-0896 — FAST-NUCES CS-C
-- **Email:** hello@joblens.ai
-- **Section:** CS-C | Web Programming
+- **Ayoob Haroon**
+
 
 <!-- v1.2 -->
